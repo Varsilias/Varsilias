@@ -20,6 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielokoronkwo-coder)](https://github.com/danielokoronkwo-coder/github-readme-stats)
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielokoronkwo-coder) 
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielokoronkwo-coder&&show_icons=true) 
 
 
