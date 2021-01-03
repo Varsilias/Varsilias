@@ -14,6 +14,12 @@
 - Ask me about web development. I recently developed interest for **Start-ups** and business technology too, you can ask me about that too.
   You can also ask me about how to get startd in tech I promise to give you an honest answer.
   
-- How to reach me: [Twitter](https://twitter.com/@Abadeveloper), [Facebook](https://www.facebook.com/daniel.okoronkwo.52), [Linkedin](https://www.linkedin.com/in/daniel-okoronkwo-a0a0821b2)
+- How to reach me: [Twitter @Abadeveloper](https://twitter.com/@Abadeveloper), [Facebook @Daniel Okoronkwo](https://www.facebook.com/daniel.okoronkwo.52), [Linkedin @Daniel Okoronkwo](https://www.linkedin.com/in/daniel-okoronkwo-a0a0821b2)
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I am a product of different tech community
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielokoronkwo-coder)](https://github.com/danielokoronkwo-coder/github-readme-stats)
+
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielokoronkwo-coder) 
+
+
