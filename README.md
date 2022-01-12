@@ -3,7 +3,6 @@
 
 ### I’m constantly looking out for ways to write **efficient and scalable code**, improve on my **Data Structure and Algorithm skills**.
 
-#### Also I am a chef, but I majorly cook what the internet eats
 
 #### How to reach me: [Twitter](https://twitter.com/varsilias), [Facebook](https://www.facebook.com/daniel.okoronkwo.52), [Linkedin](https://www.linkedin.com/in/daniel-okoronkwo)
 - Pronouns: He, Him, His
