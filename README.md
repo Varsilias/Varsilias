@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome.
 
 
-#### I’m currently working on Opensource, Backend and Cloud based Applications.
+#### I’m currently working on Opensource, Backend and Cloud based Projects.
 
 
 #### How to reach me: 
