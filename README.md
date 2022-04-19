@@ -1,7 +1,7 @@
-## Hi there 👋 Welcome To My Profile.
+### Hi there 👋 Welcome.
 
 
-### I’m constantly looking out for ways to write **efficient and scalable code**, improve on my **Data Structure and Algorithm skills**.
+#### I’m currently working on Opensource, Backend and Cloud based Applications.
 
 
 #### How to reach me: 
