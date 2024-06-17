@@ -30,3 +30,13 @@ Work has been a lot but I will be entering my indie hacking phase, who knows I m
   ![](https://komarev.com/ghpvc/?username=Varsilias&color=brightgreen)
   ![GitHub followers](https://img.shields.io/github/followers/Varsilias)
 
+
+<br><br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=varsilias&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varsilias&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" />
+</div>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsilias&layout=compact&theme=cobalt&hide_border=true" />
+</div>
+
