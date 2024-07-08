@@ -15,7 +15,7 @@
 - **Databases:** PostgreSQL, MongoDB, MySQL, Redis
 
   ## ✍️ Notes and Articles
-  I regularly jot down my technical insights, and learning, and write articles on various topics that intrigue me in the tech realm. You can read my notes and articles on my blog [danielokoronkwo.tech](https://danielokoronkwo.tech). If you are in Nigeria, you will need a VPN to gain access, not my fault most internet providers blocked Vercel DNS
+  I regularly jot down my technical insights, and learning, and write articles on various topics that intrigue me in the tech realm. You can read my notes and articles on my blog [danielokoronkwo.tech](https://danielokoronkwo.tech).
 
 ## 🛠️ Indie Hacking Projects
 Work has been a lot but I will be entering my indie hacking phase, who knows I might be a version of Twitter where videos play without annoying latency.
