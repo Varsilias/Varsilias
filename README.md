@@ -8,9 +8,9 @@
 - **Continous Learning:** When I encounter any problem I cannot solve initially, I categorize such under **"Skill Issue (Knowledge Gap for my Non-Nigerian Friends)."** The beauty of Skill Issue is that it can be addressed and most times very quickly and this is the part I enjoy the most.
 
 ## 💼 Core Skills
-- **Languages:** TypeScript, JavaScript, Java, PHP, Golang
-- **Environments:** NodeJs, JVM
-- **Frameworks/Libraries:** ExpressJs, NestJs, SpringBoot, GraphQL, Laravel, ReactJs, VueJs, NextJs, Angular, Gin, SocketIO
+- **Languages:** TypeScript, JavaScript, PHP, Golang
+- **Environments:** NodeJs, Go
+- **Frameworks/Libraries:** ExpressJs, NestJs, SpringBoot, GraphQL, ReactJs, VueJs, NextJs, Angular, Gin, SocketIO
 - **Cloud Infrastructure:** AWS, Heroku, Digital Ocean
 - **Databases:** PostgreSQL, MongoDB, MySQL, Redis
 
