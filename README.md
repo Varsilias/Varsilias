@@ -5,7 +5,7 @@
 - **Architectural Design:** Designing system architectures that are both resilient and easy to maintain is a pursuit I find both challenging and rewarding.
 - **Database Management:** Ensuring data integrity, Implementing locks, optimizing queries, and designing schemas are tasks I enjoy.
 - **AI Technology:** Fascinated by Artificial Intelligence and its potential to revolutionize various sectors.
-- **Continous Learning:** When I encounter any problem I cannot solve initially, I categorize such under **"Skill Issue (Knowledge Gap for my Non-Nigerian Friends)."** The beauty of Skill Issue is that it can be addressed and most times very quickly and this is the part I enjoy the most.
+- **Continous Learning:** When I encounter any problem I cannot solve initially, I categorize such under **"Skill Issue (Knowledge Gap for my Non-Nigerian Friends)."** The beauty of Skill Issue is that it can be addressed very quickly; this is the part I enjoy most.
 
 ## 💼 Core Skills
 - **Languages:** TypeScript, JavaScript, PHP, Golang
@@ -15,7 +15,7 @@
 - **Databases:** PostgreSQL, MongoDB, MySQL, Redis
 
   ## ✍️ Notes and Articles
-  I regularly jot down my technical insights, and learning, and write articles on various topics that intrigue me in the tech realm. You can read my notes and articles on my blog [danielokoronkwo.tech](https://danielokoronkwo.tech).
+  I regularly jot down my technical insights, learning, and write articles on various topics that intrigue me in the tech realm. You can read my notes and articles on my blog [danielokoronkwo.com](https://danielokoronkwo.com).
 
 ## 🛠️ Indie Hacking Projects
 Work has been a lot but I will be entering my indie hacking phase, who knows I might be a version of Twitter where videos play without annoying latency.
